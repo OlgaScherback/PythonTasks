@@ -5,4 +5,4 @@ class WrongFraction(Exception):
         self.denominator = denominator
 
     def __str__(self):
-        return "Enter a correct fraction so that the numerator is less than the denominator"
+        return "Enter a correct fraction so that the numerator is less than the denominator."

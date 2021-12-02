@@ -52,7 +52,7 @@ class Fraction:
                 print(err)
 
 
-fraction_1 = Fraction(1, 3)
+fraction_1 = Fraction(1, 4)
 fraction_2 = Fraction(1, 2)
 
 print(fraction_1 == fraction_2)
